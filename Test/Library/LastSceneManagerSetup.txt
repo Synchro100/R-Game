@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/T.unity
+- path: Assets/UnityChan/Scenes/Test.unity
   isLoaded: 1
   isActive: 1
