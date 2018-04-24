@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UnityChan/Scenes/Test.unity
+- path: Assets/Code/Bagic.unity
   isLoaded: 1
   isActive: 1
