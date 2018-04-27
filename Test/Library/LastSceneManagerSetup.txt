@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Code/Bagic.unity
+- path: Assets/B.unity
   isLoaded: 1
   isActive: 1
