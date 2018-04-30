@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/B.unity
+=======
+- path: "C:/Users/pc/Desktop/\uC720\uB2C8\uD2F0/\uD504\uB85C\uC81D\uD2B8/Test/Assets/B.unity"
+>>>>>>> 66da64527b87c9860be971c84c41313e16e2679a
   isLoaded: 1
   isActive: 1
